@@ -1,0 +1,5 @@
+Loup 50 20 250
+Rat_Geant 20 5 150
+Gobelin 40 10 125
+Orc_Sauvage 65 20 70
+Dragon_Rouge 250 100 5

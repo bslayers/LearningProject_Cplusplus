@@ -1,0 +1,14 @@
+thomas
+Mage
+80
+80
+0
+0
+1
+Hache de Guerre Lourde
+45
+0
+1
+Spectre_de_vent_basique
+25
+0

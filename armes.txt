@@ -1,0 +1,15 @@
+Baton_de_Bois 2 150
+Couteau_a_Beurre 1 120
+Dague_Rouillee 5 100
+Epee_en_Pierre 8 80
+Epee_en_Fer 12 60
+Hache_de_Bucheron 14 50
+Glaive_Romain 16 40
+Masse_d_Armes 18 35
+Katana_Use 20 25
+Epee_a_Deux_Mains 30 20
+Hache_de_Guerre_Lourde 45 15
+Trident_Aquatique 50 10
+Epee_de_Feu 60 5
+Marteau_Tueur_de_Dragons 80 3
+Excalibur 150 1
